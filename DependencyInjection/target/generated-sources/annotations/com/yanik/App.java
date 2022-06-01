@@ -23,6 +23,7 @@ public class App {
 		 * System.out.println(myCar.specs());
 		 */
 		
+		//		Dependency injection below
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 		Car myCar = context.getBean("audi" , Car.class);
 		System.out.println(myCar.specs());
