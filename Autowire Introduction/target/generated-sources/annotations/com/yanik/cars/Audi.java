@@ -6,9 +6,15 @@ import com.yanik.interfaces.Car;
 
 @Component("audi")
 public class Audi implements Car {
-	
-	@Autowired   // autowire automatically creates object of the engine class and type can be used easily (Spring way)
+	// autowire automatically creates object of the engine class and type can be used easily (Spring way)
+	@Autowired(required = false)   // if object is not required it will not create object
 	Engine engine;
+
+	// @Autowired //if we use it here then it will give the updated value inside setter if not here then old value
+	public void setEngine(Engine engine) {
+		engine.type = "New V8 engine.";
+		this.engine = engine;
+	}
 
 	@Override
 	public String specs() { 
