@@ -7,6 +7,8 @@
 <title>Home Page JSP</title>
 </head>
 <body>
-	Here is home page shown via controller.
+	Here is home page shown via controller. Below are the names of the person.
+	<br>
+	<%= request.getAttribute("staff") %>
 </body>
 </html>

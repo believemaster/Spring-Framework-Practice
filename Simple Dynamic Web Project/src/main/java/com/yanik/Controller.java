@@ -1,6 +1,11 @@
 package com.yanik;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.yanik.model.Person;
+
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
@@ -16,6 +21,13 @@ public class Controller extends HttpServlet {
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		List<Person> staff = new ArrayList<>();
+		staff.add(new Person("Yanik", 24));
+		staff.add(new Person("Anshul", 30));
+		
+		request.setAttribute("staff", staff);
+		
 		request.getRequestDispatcher("view.jsp").forward(request, response);		// viewing the file using Servlet way
 	}
 
