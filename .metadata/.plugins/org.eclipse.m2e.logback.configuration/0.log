@@ -2350,3 +2350,10 @@ java.net.URISyntaxException: Illegal character in path at index 20: file:/C:/Use
 2022-06-03 22:59:14,735 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-03 22:59:14,736 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\DependencyInjection\src\test\resources
 2022-06-03 22:59:14,807 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-03 22:59:14,807 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Construction injection\src\main\resources
+2022-06-03 22:59:14,808 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-03 22:59:14,808 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Construction injection\src\test\resources
+2022-06-03 22:59:14,888 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-03 22:59:14,888 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Autowire Introduction\src\main\resources
+2022-06-03 22:59:14,889 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-03 22:59:14,889 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Autowire Introduction\src\test\resources
