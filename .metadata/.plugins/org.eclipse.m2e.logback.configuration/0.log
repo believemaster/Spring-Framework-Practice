@@ -3966,3 +3966,235 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar
 2022-06-06 21:41:19,036 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-Radio & BG\src\main\resources
 2022-06-06 21:41:19,037 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-06-06 21:41:19,037 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-Radio & BG\src\test\resources
+2022-06-06 21:42:04,225 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:42:04,263 [Worker-69: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.yanik:SpringMVCMinimalSetup:0.0.1-SNAPSHOT @ C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\pom.xml.
+2022-06-06 21:42:04,451 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:42:04,453 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:42:04,454 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:42:04,455 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:42:04,456 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:42:05,684 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:42:05,685 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:42:05,686 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:42:05,686 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:42:05,687 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:42:15,444 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:42:15,445 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:42:15,446 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:42:15,446 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:42:15,447 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:43:18,783 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:43:18,785 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:18,785 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:43:18,786 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:18,787 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:43:28,866 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:43:28,868 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:28,869 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:43:28,870 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:28,871 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:43:30,839 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:43:30,840 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:30,841 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:43:30,842 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:30,843 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:43:32,652 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:43:32,653 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:32,654 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:43:32,655 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:32,655 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:43:42,428 [Worker-71: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:43:42,429 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:42,430 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:43:42,430 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:43:42,431 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:44:29,888 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:44:29,889 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:44:29,890 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:44:29,891 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:44:29,891 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:45:01,701 [Worker-82: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:45:01,703 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:01,704 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:45:01,705 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:01,706 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:45:03,842 [Worker-80: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:45:03,843 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:03,844 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:45:03,844 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:03,845 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:45:11,858 [Worker-80: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:45:11,859 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:11,860 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:45:11,861 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:11,862 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:45:24,372 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:45:24,373 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:24,374 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:45:24,375 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:24,375 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:45:30,973 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:45:30,975 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:30,975 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:45:30,976 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:45:30,976 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:46:14,292 [Worker-80: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:46:14,294 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:14,295 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:46:14,295 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:14,296 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:46:28,963 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:46:28,965 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:28,966 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:46:28,966 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:28,967 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:46:38,762 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:46:38,763 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:38,764 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:46:38,765 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:38,765 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:46:51,336 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:46:51,337 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:51,338 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:46:51,339 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:51,340 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:46:53,632 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:46:53,634 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:53,635 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:46:53,635 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:46:53,636 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:47:07,962 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:47:07,964 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:07,964 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:47:07,965 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:07,966 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:47:34,968 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:47:34,970 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:34,971 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:47:34,971 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:34,972 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:47:45,699 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:47:45,700 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:45,701 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:47:45,701 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:45,702 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:47:46,835 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:47:46,837 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:46,837 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:47:46,838 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:47:46,839 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:48:34,525 [Worker-81: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:48:34,527 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:48:34,528 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:48:34,528 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:48:34,529 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:48:45,915 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:48:45,917 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:48:45,918 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:48:45,918 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:48:45,919 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:49:02,933 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:49:02,934 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:02,935 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:49:02,935 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:02,936 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:49:09,451 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:49:09,453 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:09,453 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:49:09,454 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:09,455 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:49:28,906 [Worker-82: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:49:28,907 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:28,908 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:49:28,908 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:28,909 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:49:44,439 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:49:44,440 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:44,440 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:49:44,441 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:44,441 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:49:55,700 [Worker-82: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:49:55,701 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:55,702 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:49:55,702 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:49:55,703 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:13,957 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:13,958 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:13,958 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:13,959 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:13,959 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:22,251 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:22,253 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:22,254 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:22,255 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:22,255 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:39,942 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:39,943 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:39,943 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:39,944 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:39,944 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:41,128 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:41,129 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:41,129 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:41,130 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:41,130 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:48,594 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:48,596 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:48,596 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:48,597 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:48,597 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:51,667 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:51,668 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:51,669 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:51,670 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:51,670 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:50:57,138 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:50:57,139 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:57,140 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:50:57,141 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:50:57,141 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:08,274 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:08,275 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:08,276 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:08,277 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:08,278 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:14,984 [Worker-85: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:14,986 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:14,986 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:14,987 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:14,987 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:17,057 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:17,058 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:17,059 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:17,060 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:17,060 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:26,515 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:26,516 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:26,517 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:26,517 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:26,517 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:28,645 [Worker-84: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:28,646 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:28,646 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:28,647 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:28,647 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:35,195 [Worker-83: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:35,196 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:35,197 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:35,198 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:35,198 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:51:38,279 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:51:38,281 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:38,282 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:51:38,283 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:51:38,284 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:52:09,575 [Worker-85: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:52:09,577 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:52:09,577 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:52:09,578 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:52:09,579 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
+2022-06-06 21:52:23,182 [Worker-79: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2022-06-06 21:52:23,183 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:52:23,184 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\main\resources
+2022-06-06 21:52:23,185 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-06-06 21:52:23,185 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yanik Kumar\Documents\STS-Workspace\Spring MVC Form-DropDown\src\test\resources
