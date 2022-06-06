@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Spring MVC MinimalSetup - Request Param &amp; Model" path="/SpringMVCMinimalSetup" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC MinimalSetup - Request Param &amp; Model"/><Context docBase="Spring MVC Form" path="/SpringMVCForm" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form"/><Context docBase="Spring MVC Form-Radio &amp; BG" path="/SpringMVCFormRadioBG" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-Radio &amp; BG"/><Context docBase="Spring MVC Form-DropDown" path="/SpringMVCFormDropDown" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-DropDown"/><Context docBase="Spring MVC Form-TextArea" path="/SpringMVCFormTextArea" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-TextArea"/></Host>
+      <Context docBase="Spring MVC Form-Checkbox" path="/SpringMVCFormCheckbox" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-Checkbox"/></Host>
     </Engine>
   </Service>
 </Server>
