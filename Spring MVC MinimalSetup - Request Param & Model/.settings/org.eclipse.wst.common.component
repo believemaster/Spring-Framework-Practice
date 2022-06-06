@@ -11,7 +11,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/target/generated-sources/annotations"/>
                 
         <property name="java-output-path" value="/Spring MVC MinimalSetup/build/classes"/>
-        <property name="context-root" value="SpringMVCMinimalSetupModel"/>
+        <property name="context-root" value="SpringMVCMinimalSetup"/>
             
     </wb-module>
     
