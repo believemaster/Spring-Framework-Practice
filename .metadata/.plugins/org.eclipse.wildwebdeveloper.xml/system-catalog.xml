@@ -200,4 +200,6 @@
 <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="file:///C:/Users/Yanik%20Kumar/SpringToolSuite4/configuration/org.eclipse.osgi/692/0/.cp/xsd/ws-securitypolicy-1.2.xsd"/>
 <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="file:///C:/Users/Yanik%20Kumar/SpringToolSuite4/configuration/org.eclipse.osgi/692/0/.cp/xsd/ws-securitypolicy.xsd"/>
 <uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="file:///C:/Users/Yanik%20Kumar/SpringToolSuite4/configuration/org.eclipse.osgi/692/0/.cp/xsd/xmldsig-core-schema.xsd"/>
+<public publicId="-//SPRING//DTD BEAN//EN" uri="platform:/plugin/org.springframework.beans/org/springframework/beans/factory/xml/spring-beans.dtd"/>
+<public publicId="-//SPRING//DTD BEAN 2.0//EN" uri="file:///C:/Users/Yanik%20Kumar/SpringToolSuite4/configuration/org.eclipse.osgi/778/0/.cp/org/springframework/beans/factory/xml/spring-beans-2.0.dtd"/>
 </catalog>
