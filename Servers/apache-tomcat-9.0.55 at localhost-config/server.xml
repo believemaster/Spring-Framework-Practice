@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Spring MVC Form-Checkbox" path="/SpringMVCFormCheckbox" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-Checkbox"/><Context docBase="Spring MVC Form-External Resource" path="/SpringMVCFormExternalResource" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-External Resource"/><Context docBase="Spring MVC Form-FormValidations" path="/SpringMVCFormValidations" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-FormValidations"/></Host>
+      <Context docBase="Spring MVC Form-Checkbox" path="/SpringMVCFormCheckbox" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-Checkbox"/><Context docBase="Spring MVC Form-External Resource" path="/SpringMVCFormExternalResource" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-External Resource"/><Context docBase="Spring MVC Form-FormValidations" path="/SpringMVCFormValidations" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-FormValidations"/><Context docBase="Spring MVC Form-HibernateValidator Intro" path="/SpringMVCMinimalSetup" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring MVC Form-HibernateValidator Intro"/></Host>
     </Engine>
   </Service>
 </Server>
