@@ -4,8 +4,9 @@ import jakarta.validation.constraints.Size;
 
 public class User {
 	
-	@Size(min=5, max=10)
+	@Size(min=7, max=10)
 	private String name;
+	
 	private String gender, country, introduction, visitedCountries[];
 
 	public String getName() {
@@ -24,8 +25,6 @@ public class User {
 		this.gender = gender;
 	}
 	
-	
-
 	public String getCountry() {
 		return country;
 	}
