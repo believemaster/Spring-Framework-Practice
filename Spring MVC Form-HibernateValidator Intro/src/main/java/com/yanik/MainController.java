@@ -66,10 +66,10 @@ public class MainController {
 			countryMap.put("Russia", "Russia");
 			countryMap.put("Dubai", "Dubai");
 			
-			modelAndView.addObject("genderMap", genderMap);
-			modelAndView.addObject("countryMap", countryMap);
+			repopulateModalView.addObject("genderMap", genderMap);
+			repopulateModalView.addObject("countryMap", countryMap);
 
-			modelAndView.addObject("user", user);
+			repopulateModalView.addObject("user", user);
 			
 			System.out.println("Has Errors!");
 			return repopulateModalView;
