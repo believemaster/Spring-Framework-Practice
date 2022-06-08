@@ -16,9 +16,10 @@
 	<hr>
 	<form:form action="displayUserInfo" modelAttribute="user">
 		Name: <form:input path="name" required="true" placeholder="Enter Name"/>
+		<form:errors path="name" cssClass="color:red"/>
 		<hr/>
-		Gender: Male: <form:radiobuttons path="gender" value="male" required="true" />
-		                 Female: <form:radiobuttons path="gender" value="female" required="true" />
+		Gender: Male: <form:radiobutton path="gender" value="male"/>
+		                 Female: <form:radiobutton path="gender" value="female"/>
 		<hr/>
 		Country: 
 		<form:select path="country" >

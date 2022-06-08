@@ -4,7 +4,7 @@ import jakarta.validation.constraints.Size;
 
 public class User {
 	
-	@Size(min=7, max=10)
+	@Size(min=7, max=10, message="Enter the name between 7-10 Characters")
 	private String name;
 	
 	private String gender, country, introduction, visitedCountries[];
